@@ -1,12 +1,12 @@
 # Gerador de grupos
 
 >## Objetivo:
->>### Ao receber uma lista com pessoas, o script faz grupos de forma randomica com três integrantes.
+>>### Ao receber uma lista com pessoas, o script faz grupos de forma randomica com três integrantes. <a name="secao-2"></a>
 >>
 ## Seção 1
 Algum conteúdo aqui.
 
-## Seção 2 <a name="secao-2"></a>
+## Seção 2
 Outro conteúdo.
 
 ## Seção 3
